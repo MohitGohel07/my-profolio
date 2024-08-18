@@ -126,12 +126,12 @@ function Home() {
                                                 <h5 className="ms-4 mb-0 d-none d-sm-block">Play Video</h5>
                                             </div>
                                         </div>
-                                        {/* <div className="col-lg-6">
+                                        <div className="col-lg-6">
                                             <img className="img-fluid"
                                                 src={Constant.BaseStorage + users.image}
                                                 // src={profile}
                                                 alt="" />
-                                        </div> */}
+                                        </div>
                                     </>
                                 )}
                             </div>
